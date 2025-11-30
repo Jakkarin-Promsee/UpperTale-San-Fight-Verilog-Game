@@ -86,3 +86,5 @@ Keep only the valid and necessary files inside.
 Vivado uses **references**, not copies.  
 Always keep the real working files inside `UpperTale.srcs/`, and clean them before pushing updates.  
 This keeps the project clean, predictable, and easy for implementation.
+
+I'm here
